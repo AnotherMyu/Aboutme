@@ -11,4 +11,4 @@ This project is a single-page "About Me" site. It includes:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Aboutme.git
+   git clone https://github.com/AnotherMyu/Aboutme.git
